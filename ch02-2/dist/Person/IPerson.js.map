@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "IPerson.js",
+  "sourceRoot": "",
+  "sources": [
+    "../../src/Person/IPerson.ts"
+  ],
+  "names": [],
+  "mappings": ""
+}
